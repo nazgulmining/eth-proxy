@@ -117,14 +117,11 @@ http://sourceforge.net/projects/pywin32/files/pywin32/
   python xmr-proxy.py
 ```
 
-#Contact
-
-* I am available via admin@dwarfpool.com
-
 #Credits
 
 * Original version by Slush0 (original stratum code)
 * More Features added by GeneralFault, Wadee Womersley and Moopless
+* This version forked by Atrides. Please consider donating to him.
 
 #License
 
