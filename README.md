@@ -1,7 +1,7 @@
 #Description
 
 This is Stratum Proxy for Ethereum based pools (RPCv2) using asynchronous networking written in Python Twisted.
-Originally developed for DwarfPool http://dwarfpool.com/eth
+Originally developed for DwarfPool http://dwarfpool.com/eth - forked from Atrides
 
 **NOTE:** This fork is still in development. Some features may be broken. Please report any broken features or issues.
 
@@ -61,7 +61,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 
 #Donations
 
-* ETH:  0xea7263feb7d8a8ab0a11eedd8f1ce04412ab0820
+* ETH:  0xf9C02219B49acB8e3eDd13D35F1a77b5E4BcA041
 
 
 #Requirements
